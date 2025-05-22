@@ -15,6 +15,6 @@ It addresses key challenges such as **missing values, outliers, inconsistent for
 5. **Feature Scaling** – Normalized data using **StandardScaler** and **MinMaxScaler** for better machine learning performance.  
 
 ## **Usage**
-Simply follow the step-by-step implementation in `EDA_Preprocessing.ipynb` to clean, analyze, and prepare the dataset.
+Simply follow the step-by-step implementation in `EDA.ipynb` to clean, analyze, and prepare the dataset.
 
 
