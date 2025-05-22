@@ -8,11 +8,11 @@ It addresses key challenges such as **missing values, outliers, inconsistent for
 
 ## **Key Steps**
 
-1. **Data Exploration** – Load dataset, analyze unique values, perform statistical analysis.  
-2. **Data Cleaning** – Handle missing values, remove duplicates, detect outliers, and standardize formatting.  
-3. **Data Analysis** – Filter data based on conditions, visualize age vs salary, and analyze distribution by location.  
-4. **Data Encoding** – Convert categorical variables using **Label Encoding** and **One-Hot Encoding**.  
-5. **Feature Scaling** – Normalize data using **StandardScaler** and **MinMaxScaler** for better machine learning performance.  
+1. **Data Exploration** – Loaded dataset, analyzed unique values, performed statistical analysis.  
+2. **Data Cleaning** – Handled missing values, removed duplicates, detected outliers, and standardized formatting.  
+3. **Data Analysis** – Filtered data based on conditions, visualize age vs salary, and analyze distribution by location.  
+4. **Data Encoding** – Converted categorical variables using **Label Encoding** and **One-Hot Encoding**.  
+5. **Feature Scaling** – Normalized data using **StandardScaler** and **MinMaxScaler** for better machine learning performance.  
 
 ## **Usage**
 Simply follow the step-by-step implementation in `EDA_Preprocessing.ipynb` to clean, analyze, and prepare the dataset.
