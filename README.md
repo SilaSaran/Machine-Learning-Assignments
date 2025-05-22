@@ -11,7 +11,7 @@ It addresses key challenges such as **missing values, outliers, inconsistent for
 1. **Data Exploration** – Loaded dataset, analyzed unique values, performed statistical analysis.  
 2. **Data Cleaning** – Handled missing values, removed duplicates, detected outliers, and standardized formatting.  
 3. **Data Analysis** – Filtered data based on conditions, visualize age vs salary, and analyze distribution by location.  
-4. **Data Encoding** – Converted categorical variables using **Label Encoding** and **One-Hot Encoding**.  
+4. **Data Encoding** – Converted categorical variables using **One-Hot Encoding**.  
 5. **Feature Scaling** – Normalized data using **StandardScaler** and **MinMaxScaler** for better machine learning performance.  
 
 ## **Usage**
