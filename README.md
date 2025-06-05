@@ -27,9 +27,13 @@ This project applies various regression techniques to predict housing prices in 
 Steps Covered:
 
 1: Data Preprocessing: Load dataset, convert to Pandas DataFrame, handle missing values, and scale features using StandardScaler.
+
 2: Train Regression Models: Implement Linear Regression, Decision Tree, Random Forest, Gradient Boosting, and SVR. 
+
 3: Model Evaluation: Assess performance using MSE, MAE, and R² Score. 
+
 4: Comparison & Insights: Identify best and worst models and visualize results using matplotlib & seaborn.
+
 5: Documentation & Submission: Markdown explanations included in Jupyter Notebook for clarity.
 
 Run the Jupyter Notebook (Regression_Assignment.ipynb) for analysis.
