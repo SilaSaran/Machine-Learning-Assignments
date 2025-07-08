@@ -39,3 +39,19 @@ Steps Covered:
 Run the Jupyter Notebook (Regression_Assignment.ipynb) for analysis.
 
 
+Assignment 4:  Breast Cancer Classification Project
+This project applies five machine learning classifiers—Logistic Regression, Decision Tree, Random Forest, Support Vector Machine, and k-Nearest Neighbors—to predict breast cancer (malignant vs. benign) using the scikit-learn breast cancer dataset.
+
+Key highlights:
+
+--Exploratory data analysis (EDA) and preprocessing
+
+--Model training and evaluation with accuracy_score
+
+--Hyperparameter tuning for k-NN
+
+--Model comparison with metrics and visualizations
+
+--Best model: Logistic Regression / Random Forest
+
+--Worst model: Decision Tree
