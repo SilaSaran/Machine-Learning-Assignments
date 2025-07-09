@@ -20,7 +20,11 @@ Simply follow the step-by-step implementation in `EDA.ipynb` to clean, analyze, 
 
 
 
+
+
 Assignment 2: California Housing Regression Analysis
+
+
 
 Project Overview:
 
@@ -43,7 +47,10 @@ Run the Jupyter Notebook (Regression_Assignment.ipynb) for analysis.
 
 
 
+
 Assignment 4:  Breast Cancer Classification Project
+
+
 
 This project applies five machine learning classifiers—Logistic Regression, Decision Tree, Random Forest, Support Vector Machine, and k-Nearest Neighbors—to predict breast cancer (malignant vs. benign) using the scikit-learn breast cancer dataset.
 
@@ -63,7 +70,10 @@ Key highlights:
 
 
 
+
 Assignmnet 5:Clustering Iris Dataset using KMeans and Hierarchical Clustering
+
+
 
 Objective:
 This project demonstrates unsupervised learning techniques—specifically KMeans and Hierarchical clustering—applied to the classic Iris dataset from sklearn.
