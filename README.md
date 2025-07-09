@@ -1,4 +1,5 @@
-Assignment 1: EDA and Preprocessing
+Assignment 1: 
+EDA and Preprocessing
 
 Overview:
 This project focuses on **Exploratory Data Analysis (EDA) and Data Preprocessing**
@@ -22,7 +23,9 @@ Simply follow the step-by-step implementation in `EDA.ipynb` to clean, analyze, 
 
 
 
-Assignment 2: California Housing Regression Analysis
+Assignment 2:
+
+California Housing Regression Analysis
 
 
 
@@ -48,7 +51,9 @@ Run the Jupyter Notebook (Regression_Assignment.ipynb) for analysis.
 
 
 
-Assignment 4:  Breast Cancer Classification Project
+Assignment 4:  
+
+Breast Cancer Classification Project
 
 
 
@@ -71,7 +76,9 @@ Key highlights:
 
 
 
-Assignmnet 5:Clustering Iris Dataset using KMeans and Hierarchical Clustering
+Assignmnet 5:
+
+Clustering Iris Dataset using KMeans and Hierarchical Clustering
 
 
 
